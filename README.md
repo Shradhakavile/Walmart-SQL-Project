@@ -41,9 +41,3 @@ This project analyzes Walmart sales data using SQL to uncover revenue drivers, c
 
 **Conclusion**
 This project demonstrates the ability to use SQL for retail sales analysis, translating transactional data into meaningful insights.
-It showcases skills in data exploration, business analysis, and insight communication, relevant for Data Analyst and Business Analyst roles.
-
-
-Subqueries for layered analysis
-
-Conditional filtering for business-driven insights
